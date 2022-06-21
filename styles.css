@@ -246,11 +246,6 @@ main{
         border-radius: 0 0 10px 10px;
     }
 
-    .triangle{
-        border-left: none;
-        border-right: none;
-    }
-
     .share.klik > img {
         position: relative;
         left: 150px;
